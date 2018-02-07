@@ -10,7 +10,7 @@ Converter o seguinte design para HTML/CSS/JS.
 ## Requisitos
 1. Crie a arquitetura do projeto. Não é obrigatório utilizar a arquitetura de um projeto Angular, mas será tratado como diferencial.
 2. Use HTML5 / SCSS.
-3. A tela deve ser responsiva.
+3. A tela deve ser responsiva e adaptada para dispositivos móveis (Android e iOS). É ideal que haja suporte responsivo também para tablets.
 4. Não utilize JQuery.
 6. Faça da página o menor tamanho possível - assegure-se de que as imagens sejam otimizadas corretamente, recursos minificados, etc.
 7. * Tarefa de bônus opcional 1: * Use [imagens responsivas] (https://jakearchibald.com/2015/anatomy-of-responsive-images/)
