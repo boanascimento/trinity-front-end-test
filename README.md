@@ -12,11 +12,11 @@ Converter o seguinte design para HTML/CSS/JS.
 2. Use HTML5 / CSS3. A utilização do pré-processador SASS será tratado como bônus para aprovação do candidato.
 3. A tela deve ser responsiva e adaptada para dispositivos móveis (Android e iOS). É ideal que haja suporte responsivo também para tablets.
 4. Não utilize JQuery.
-6. Faça da página o menor tamanho possível - assegure-se de que as imagens sejam otimizadas corretamente, recursos minificados, etc.
+6. Faça da página o menor tamanho possível - assegure-se de que as imagens estejam otimizadas corretamente, recursos minificados, etc.
 7. * Tarefa de bônus opcional 1: * Use [imagens responsivas] (https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 
-- A fonte usada no projeto é Open Sans
-- As seguintes imagens são usadas no projeto:
+- A fonte usada no projeto deve ser a Open Sans.
+- As seguintes imagens deverão são usadas no projeto:
   -  https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/
   -  https://pixabay.com/en/new-zealand-lake-web-kai-dock-583176/
   -  https://pixabay.com/en/new-zealand-doubtful-sound-fjord-583181/
