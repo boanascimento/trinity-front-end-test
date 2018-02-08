@@ -4,8 +4,11 @@ Trinity - Teste para desenvolvimento frontend
 ## Objetivo
 Converter o seguinte design para HTML/CSS/JS.
 
-### Design da tela a ser implementada
+### Tela principal
 ![Xfive Front-end Test Thumbnails](xfive-front-end-test-thumbs.jpg)
+
+### Modal que é aberto quando há um evento de click na imagem.
+![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requisitos
 1. Crie a arquitetura do projeto. Não é obrigatório utilizar a arquitetura de um projeto Angular na versão mais recente, mas será tratado como bônus para aprovação do candidato.
