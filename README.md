@@ -31,7 +31,7 @@ Certifique-se de que os elementos funcionem e sejam exibidos corretamente nos se
 - Internet Explorer 11
 
 ## Padrões de código
-Ao trabalhar no projeto, use um estilo de codificação consistente. Tente seguir o que já foi definido no Chisel (EditorConfig, stylelint, ESLint). Você também pode verificar diretrizes como [Guia de Código] (http://codeguide.co/) ou [Diretrizes CSS] (http://cssguidelin.es/).
+Ao trabalhar no projeto, use um estilo de codificação consistente. Use algumas styleguides como [Guia de Código] (http://codeguide.co/) ou [Diretrizes CSS] (http://cssguidelin.es/).
 
 ## Garantia da Qualidade
 
